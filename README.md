@@ -2,7 +2,7 @@
 
 > IT professional by day. Homelab goblin by night.
 
-I work in enterprise IT with a focus on **Microsoft 365**, **Azure**, and the kind of infrastructure problems that require a whiteboard and a strong cup of coffee. Outside of work, I run a self-hosted stack on a repurposed HP workstation because apparently buying cloud subscriptions wasn't enough.
+I'm a **Systems Administrator** with a background in **network infrastructure** — the kind of person who gets excited about VLANs, DNS records, and why that one subnet is behaving weird. Day to day I work in enterprise IT with a focus on **Microsoft 365**, **Azure**, and the kind of infrastructure problems that require a whiteboard and a strong cup of coffee. Outside of work, I run a self-hosted stack on a repurposed HP workstation because apparently buying cloud subscriptions wasn't enough.
 
 ---
 
